@@ -4,7 +4,7 @@ class Item {
   final double rating;
   final String imageURL;
 
-  Item({
+  Item( {
     required this.name,
     required this.price,
     required this.rating,
